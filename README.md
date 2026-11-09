@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173. Camera access requires localhost or HTTPS and browser permission. Phone browsers can use the image capture fallback.
+Open http://localhost:5173. To navigate from a source image, first add reference landmark photos as described below, then upload a photo of one of those locations and select a destination. The app matches the source photo, detects objects, plans a route, and displays distance-aware direction steps. Camera access requires localhost or HTTPS and browser permission. Phone browsers can use the image capture fallback.
 
 ## Deploy
 
